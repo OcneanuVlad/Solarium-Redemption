@@ -13,11 +13,11 @@ Harta se genereaza la infinit, iar AI-ul inamicilor este unul destul de simplu, 
 Jocul este menit sa fie greu, asa ca te poti astepta sa mori destul de mult, insa asta este unul din farmecele lui.
 
 Helpful Hints:
-  -pentru un run bun trebuie sa te focusezi pe colectat xp;
-  -poti vedea in stanga jos ce arme ai echipate si ce level au;
-  -poti avea doar 5 pasive echipate;
-  -inamicii devin din ce in ce mai puternici;
-  -vei muri de multe ori (nu poti castiga);
+   -pentru un run bun trebuie sa te focusezi pe colectat xp;
+   -poti vedea in stanga jos ce arme ai echipate si ce level au;
+   -poti avea doar 5 pasive echipate;
+   -inamicii devin din ce in ce mai puternici;
+   -vei muri de multe ori (nu poti castiga);
 
 Din pacate nu am reusit sa aducem jocul intr-o stare in care ne-am fi dorit, insa putem spune ca e un produs cel putin prezentabil, dar poate fi considerat mai mult
 un demo decat un joc gata pentru a fi livrat. Noi vom continua sa lucram la joc, cu intentia de a-l lansa pe steam in lunile urmatoare.
