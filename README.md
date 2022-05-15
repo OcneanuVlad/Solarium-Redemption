@@ -1,6 +1,8 @@
 # Solarium-Redemption
 FiiCode 2022 - Echipa Solaris
 
+LINK VIDEO: https://www.youtube.com/watch?v=sPB41KK8bVo
+
 Solarium Redemption este un joc roguelite, de tipul endless survival. Scopul este sa supravietuiesti cat mai mult. Pentru a face asta va trebuii sa colectezi upgrade-uri, unele fiind stats-uri iar altele fiind arme care functioneaza in mod pasiv. Trebuie sa te focusezi pe colectat xp pentru a acumula cat mai multe nivele, implicit, cat mai multe upgrade-uri. Poti echipa maxim 5 arme si maxim 5 pasive. Armele pot fi augmentate dupa ce sunt upgradate la nivelul maxim, augmentul oferindu-le un efect special pentru fiecare arma si un bonus imens in putere, insa efortul pentru a augmenta o arma este destul de mare.
 
 Harta se genereaza la infinit, iar AI-ul inamicilor este unul destul de simplu, ei doar vin spre tine, dandu-ti damage atunci cand te ating.
