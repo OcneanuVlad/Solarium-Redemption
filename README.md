@@ -21,3 +21,10 @@ Helpful Hints:
 
 Din pacate nu am reusit sa aducem jocul intr-o stare in care ne-am fi dorit, insa putem spune ca e un produs cel putin prezentabil, dar poate fi considerat mai mult
 un demo decat un joc gata pentru a fi livrat. Noi vom continua sa lucram la joc, cu intentia de a-l lansa pe steam in lunile urmatoare.
+
+Update Patch notes:
+-Adaugat 3 arme noi interactive
+-Adaugat skinuri pentru player
+-Adaugat mecanica de dash
+-Adaugat buton in stanga jos in meniul principal pentru downloadable content
+-Am ajustat dificultatea, facand jocul mai usor, in acelasi timp testarea mai usoara
