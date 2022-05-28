@@ -29,4 +29,4 @@ Update Patch notes:
 -Adaugat buton in stanga jos in meniul principal pentru downloadable content
 -Am ajustat dificultatea, facand jocul mai usor, in acelasi timp testarea mai usoara
 
-LINK VIDEO UPDATE: https://www.youtube.com/watch?v=q1C3XIP4RrE
+LINK VIDEO UPDATE: https://www.youtube.com/watch?v=UWA9Gbp8eBo
